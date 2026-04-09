@@ -4,4 +4,4 @@
 - http_lib_server : http 웹서버 / http web server
 - http_lib_server_sqlite : http 웹서버 + sqlite 지원 / http web server  with sqlite support
 - http_lib_server_react : http 웹서버 + react 지원 / http web server  with react support
-- http_lib_server_openssl : http http 웹서버 + https(openssl) 지원 / HTTP web server + HTTPS (OpenSSL) support
+- http_lib_server_openssl : http 웹서버 + https(openssl) 지원 / HTTP web server + HTTPS (OpenSSL) support
