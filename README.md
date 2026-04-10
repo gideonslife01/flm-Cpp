@@ -6,5 +6,5 @@
 - http_lib_server_react : http 웹서버 + react 지원 / http web server  with react support
 - http_lib_server_openssl : http 웹서버 + https(openssl) 지원 / HTTP web server + HTTPS (OpenSSL) support
 - http_lib_server_letsencrypt :
-  http 웹서버 + https(openssl) 지원 
-  HTTP web server + HTTPS (Let's Encrypt) support
+  http 웹서버 + https(Let's Encrypt) 지원 
+  HTTP web server + HTTPS(Let's Encrypt) support
