@@ -7,4 +7,4 @@
 - http_lib_server_openssl : http 웹서버 + https(openssl) 지원 / http web server + https (OpenSSL) support
 - http_lib_server_letsencrypt : http 웹서버 + https(Let's Encrypt) 지원 / http web server + https(Let's Encrypt) support
 - http_lib_server_client : http,https server + http,https client+ https json server client
-- http_lib_server_virtual : http,https server + virtualhost
+- http_lib_server_virtual : https server + virtualhost
