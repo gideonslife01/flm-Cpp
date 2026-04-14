@@ -4,10 +4,10 @@
 #include <iostream>
 
 int main() {
-    // HTTPS 클라이언트
-    httplib::SSLClient cli("daekyeongkim.freelifemakers.org", 5080);
+    // HTTPS client
+    httplib::SSLClient cli("host.domain.org", 5080);
 
-    // 업로드 항목
+    // 업로드 항목/ upload item
     httplib::UploadFormData item;
     item.name = "file";
     item.filename = "test.txt";
