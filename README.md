@@ -10,3 +10,4 @@
 - http_lib_server_virtual : https server + virtualhost
 - http_lib_server_reverse_proxy : http,https web server(reverse proxy) + http web server
 - http_lib_server_multipart_upload : http,https web server + multipart file upload
+- http_lib_server_multipart_upload :  대용량 파일 업로드 / Large file upload
