@@ -13,3 +13,4 @@
 - http_lib_server_multipart_upload :  대용량 파일 업로드 / Large file upload
 - http_lib_server_load_balancer :  로드밸런서(라운드로빈) / Load Balancer(Round Robin)
 - http_lib_server_sse : http webserver SSE
+- http_lib_server_websocket : http webserver + websocket
