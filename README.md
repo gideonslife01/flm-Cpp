@@ -19,3 +19,4 @@
 
 👉🏻 miniWebserver
 - miniWebserver_1 : 미니웹서버 - 1 / Mini Webserver - 1
+- miniWebserver_2 : 미니웹서버 - 2 / Mini Webserver - 2 (코드분리 / Code separation)
