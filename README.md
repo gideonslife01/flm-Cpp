@@ -1,5 +1,8 @@
 ✅ List
 
+0.Basic
+- pointer : 포인터,네임스페이스,헤더 /Pointer,Namespace,Header
+
 1.웹서버 / Webserver
 
 👉🏻httplib.h
