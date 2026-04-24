@@ -1,7 +1,8 @@
 ✅ List
 
 0.Basic
-- pointer : 포인터,네임스페이스,헤더 /Pointer,Namespace,Header
+- pointer : 포인터,네임스페이스,헤더 / Pointer,Namespace,Header
+- thread : 스레드,참조 / Thread,Reference
 
 1.웹서버 / Webserver
 
