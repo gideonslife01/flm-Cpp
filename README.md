@@ -3,7 +3,8 @@
 0.Basic
 - pointer : 포인터,네임스페이스,헤더 / Pointer,Namespace,Header
 - thread : 스레드,참조 / Thread,Reference
-- thread : 람다함수 / Lambda Function
+- rambda : 람다함수 / Lambda Function
+- socket : 소켓 / socket
 
 1.웹서버 / Webserver
 
