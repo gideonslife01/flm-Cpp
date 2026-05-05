@@ -5,6 +5,7 @@
 - thread : 스레드,참조 / Thread,Reference
 - rambda : 람다함수 / Lambda Function
 - socket : 소켓 / socket
+- yaml : yaml파일 사용하기 / Using YAML file
 
 1.웹서버 / Webserver
 
@@ -28,3 +29,4 @@
 - miniWebserver_2 : 미니웹서버 - 2 / Mini Webserver - 2 (코드분리 / Code separation)
 - miniWebserver_3 : 미니웹서버 - 3 / Mini Webserver - 3 (커맨드로 프로그램 종료 로직 / command-based program termination logic)
 - miniWebserver_4 : 미니웹서버 - 4 / Mini Webserver - 4 (routing)
+- miniWebserver_4 : 미니웹서버 - 5 / Mini Webserver - 4 (라우터 설정파일추가 / Add router configuration file)
