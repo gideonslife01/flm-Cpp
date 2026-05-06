@@ -6,6 +6,7 @@
 - rambda : 람다함수 / Lambda Function
 - socket : 소켓 / socket
 - yaml : yaml파일 사용하기 / Using YAML file
+- map : yaml사용하기 / Using map
 
 1.웹서버 / Webserver
 
