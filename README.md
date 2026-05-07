@@ -30,4 +30,5 @@
 - miniWebserver_2 : 미니웹서버 - 2 / Mini Webserver - 2 (코드분리 / Code separation)
 - miniWebserver_3 : 미니웹서버 - 3 / Mini Webserver - 3 (커맨드로 프로그램 종료 로직 / command-based program termination logic)
 - miniWebserver_4 : 미니웹서버 - 4 / Mini Webserver - 4 (routing)
-- miniWebserver_4 : 미니웹서버 - 5 / Mini Webserver - 4 (라우터 설정파일추가 / Add router configuration file)
+- miniWebserver_5 : 미니웹서버 - 5 / Mini Webserver - 5 (라우터 설정파일추가 / Add router configuration file)
+- miniWebserver_6 : 미니웹서버 - 6 / Mini Webserver - 6 (cmake,Serving static files)
