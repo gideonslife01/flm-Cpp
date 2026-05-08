@@ -32,3 +32,4 @@
 - miniWebserver_4 : 미니웹서버 - 4 / Mini Webserver - 4 (routing)
 - miniWebserver_5 : 미니웹서버 - 5 / Mini Webserver - 5 (라우터 설정파일추가 / Add router configuration file)
 - miniWebserver_6 : 미니웹서버 - 6 / Mini Webserver - 6 (cmake,Serving static files)
+- miniWebserver_7 : 미니웹서버 - 7 / Mini Webserver - 7 (Multi server + static files + routes)
