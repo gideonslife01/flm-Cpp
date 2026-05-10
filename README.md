@@ -34,3 +34,4 @@
 - miniWebserver_6 : 미니웹서버 - 6 / Mini Webserver - 6 (cmake,Serving static files)
 - miniWebserver_7 : 미니웹서버 - 7 / Mini Webserver - 7 (Multi server + static files + routes)
 - miniWebserver_8 : 미니웹서버 - 8 / Mini Webserver - 7 (Multi server + Method[GET,POST,PUT,DELETE,FETCH])
+- miniWebserver_9 : 미니웹서버 - 9 / Mini Webserver - 9 (Multi server + https(openssl))
