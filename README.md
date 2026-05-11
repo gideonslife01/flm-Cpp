@@ -3,6 +3,7 @@
 0.Basic
 - pointer : 포인터,네임스페이스,헤더 / Pointer,Namespace,Header
 - thread : 스레드,참조 / Thread,Reference
+- thread2 : 스레드(detach,join) / Thread(detach,join)
 - rambda : 람다함수 / Lambda Function
 - socket : 소켓 / socket
 - yaml : yaml파일 사용하기 / Using YAML file
@@ -35,3 +36,4 @@
 - miniWebserver_7 : 미니웹서버 - 7 / Mini Webserver - 7 (Multi server + static files + routes)
 - miniWebserver_8 : 미니웹서버 - 8 / Mini Webserver - 7 (Multi server + Method[GET,POST,PUT,DELETE,FETCH])
 - miniWebserver_9 : 미니웹서버 - 9 / Mini Webserver - 9 (Multi server + https(openssl))
+- miniWebserver_10 : 미니웹서버 - 10 / Mini Webserver - 10 (Multi server + Thread(detach->join))
