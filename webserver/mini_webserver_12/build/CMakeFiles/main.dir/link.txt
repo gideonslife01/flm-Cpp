@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/main.dir/Main.cpp.o CMakeFiles/main.dir/Router.cpp.o CMakeFiles/main.dir/Server.cpp.o CMakeFiles/main.dir/HttpsServer.cpp.o CMakeFiles/main.dir/Proxy.cpp.o -o main   -L/opt/homebrew/opt/openssl@3/lib  -Wl,-rpath,/opt/homebrew/opt/openssl@3/lib -lssl -lcrypto
